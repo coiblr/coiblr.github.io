@@ -37,16 +37,6 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
 3. ordered item
 4. ordered item
 
-### Unordered -- Ordered -- Unordered
-
-* unordered item
-* unordered item 
-  1. ordered
-  2. ordered 
-     * unordered item
-     * unordered item
-* unordered item
-* unordered item
 
 ### Unordered -- Unordered -- Ordered
 
